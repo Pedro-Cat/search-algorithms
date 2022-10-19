@@ -8,4 +8,4 @@ Uses **VetorOrdenado.py**, use a queue and heuristic concepts, to search for a n
 Uses **VetorOrdenadoAdjacente.py**, use a queue and heuristic concepts and the distance in a road from a city to a neighbour city, to search for a city near from the objective and near from the current city, and others files like: **Cidade.py**, **Adjacente.py** and **Mapa.py**.
 
 # Others files
-They are some concept tests or concept ideas, like **Mapa.py**: Creates a map with the necessary information of distance and neighbours citys.
+They are some concept implementations or concept ideas, like **Mapa.py**: Creates a map with the necessary information of distance and neighbours citys.
